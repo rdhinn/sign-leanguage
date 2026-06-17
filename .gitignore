@@ -1,0 +1,45 @@
+# Next.js files to ignore in this sign language repository
+.next/
+node_modules/
+app/
+public/
+middleware.ts
+package.json
+package-lock.json
+tsconfig.json
+postcss.config.mjs
+eslint.config.mjs
+next.config.ts
+next-env.d.ts
+.env
+.env.example
+.env.local
+.env.production
+.env.development
+prisma/
+AGENTS.md
+CLAUDE.md
+README.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+.idea/
+
+# Python temp and model files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.venv
+*.task
+*.h5
+*.png
